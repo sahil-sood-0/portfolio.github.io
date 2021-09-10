@@ -298,6 +298,10 @@ header .navbar ul li a:hover{
     color:#fff;
 }
 
+.about .row .counter .box:hover {
+    transform: scale(1.2);
+}
+
 .education .box-container{
     display: flex;
     align-items: center;
