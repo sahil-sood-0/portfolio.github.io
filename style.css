@@ -219,7 +219,7 @@ header .navbar ul li a:hover{
 }
 
 .home:hover{
-    animation: bounce 2s 
+    animation: bounce 2s .2s
     linear;
 }
 
