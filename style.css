@@ -80,8 +80,8 @@ section{
 }
 
 
-.heading:hover{
-    animation: slide 2s ease-in .1s;
+.heading{
+    animation: slide 3s ease-in .1s infinite;
 }
 
 @keyframes slide{
@@ -219,7 +219,7 @@ header .navbar ul li a:hover{
 }
 
 .home:hover{
-    animation: bounce 2s .2s
+    animation: bounce 2.5s .2s
     linear;
 }
 
