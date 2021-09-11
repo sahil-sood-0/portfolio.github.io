@@ -81,7 +81,7 @@ section{
 
 
 .heading{
-    animation: slide 3s ease-in .1s infinite;
+    animation: slide 3.5s ease-in .1s infinite;
 }
 
 @keyframes slide{
