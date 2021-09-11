@@ -81,7 +81,7 @@ section{
 
 
 .heading:hover{
-    animation: slide 2s ease-in .4s;
+    animation: slide 2s ease-in .1s;
 }
 
 @keyframes slide{
