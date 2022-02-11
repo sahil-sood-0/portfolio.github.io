@@ -218,10 +218,10 @@ header .navbar ul li a:hover{
     padding: 1rem 0;
 }
 
-.home:hover{
+/* .home:hover{
     animation: bounce 2.5s .2s
     linear;
-}
+} */
 
 @keyframes bounce{
     20% , 50%, 66%, 80%, 90%, 98%, to{
